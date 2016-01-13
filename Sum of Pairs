@@ -1,5 +1,4 @@
 var sum_pairs=function(ints, s){
-    //your code here
     var pair = new Array();
     var range = ints.length;
     for(i=0;i<range;i++){
