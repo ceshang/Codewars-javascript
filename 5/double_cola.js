@@ -1,3 +1,4 @@
+
 function whoIsNext(names, r) {
   var l = names.length;
   while (r >= l) { r -= l; l *= 2; }
