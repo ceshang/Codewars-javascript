@@ -1,3 +1,3 @@
-# Codewars-javascript
+### Codewars-javascript
 
 Kata Solutions
