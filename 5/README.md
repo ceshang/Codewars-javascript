@@ -2,6 +2,7 @@
 - [Caculating with functions](https://github.com/ceshang/Codewars-javascript/blob/master/5/calculating_with_functions.js)
 - [Double Cola](https://github.com/ceshang/Codewars-javascript/blob/master/5/double_cola.js)
 - [Guess the gifts](https://github.com/ceshang/Codewars-javascript/blob/master/5/guess_the_gifts.js)
+- [Moving zeros to the end](https://github.com/ceshang/Codewars-javascript/blob/master/5/moving_zeros_to_the_end.js)
 - [Number of trailing zeros of N](https://github.com/ceshang/Codewars-javascript/blob/master/5/number_of_trailing_zeros_of_n.js)
-- - [Regex password validation](https://github.com/ceshang/Codewars-javascript/blob/master/5/regex_password_validation.js)
+- [Regex password validation](https://github.com/ceshang/Codewars-javascript/blob/master/5/regex_password_validation.js)
 - [Sum of pairs](https://github.com/ceshang/Codewars-javascript/blob/master/5/sum_of_pairs.js)
