@@ -20,6 +20,6 @@ function validParentheses(parens){
 
 function validParentheses(parens){
   var regex = /\(\)/;
-  while (regext.test(parens)) parens = parens.replace(regex, "");
+  while (regex.test(parens)) parens = parens.replace(regex, "");
   return !parens;
 }
