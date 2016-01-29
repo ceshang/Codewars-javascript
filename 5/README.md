@@ -1,5 +1,6 @@
 ## Codewars-Javascript-5kyu
 - [Caculating with functions](https://github.com/ceshang/Codewars-javascript/blob/master/5/calculating_with_functions.js)
+- [Directions Reduction](https://github.com/ceshang/Codewars-javascript/blob/master/5/directions_reduction.js)
 - [Double Cola](https://github.com/ceshang/Codewars-javascript/blob/master/5/double_cola.js)
 - [Guess the gifts](https://github.com/ceshang/Codewars-javascript/blob/master/5/guess_the_gifts.js)
 - [Moving zeros to the end](https://github.com/ceshang/Codewars-javascript/blob/master/5/moving_zeros_to_the_end.js)
