@@ -6,3 +6,4 @@
 - [Number of trailing zeros of N](https://github.com/ceshang/Codewars-javascript/blob/master/5/number_of_trailing_zeros_of_n.js)
 - [Regex password validation](https://github.com/ceshang/Codewars-javascript/blob/master/5/regex_password_validation.js)
 - [Sum of pairs](https://github.com/ceshang/Codewars-javascript/blob/master/5/sum_of_pairs.js)
+- [Valid Parentheses](https://github.com/ceshang/Codewars-javascript/blob/master/5/valid_parentheses.js)
