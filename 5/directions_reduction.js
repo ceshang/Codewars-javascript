@@ -14,9 +14,9 @@ dirReduc(["NORTH", "SOUTH", "SOUTH", "EAST", "WEST", "NORTH"]) => []
 */
 
 function dirReduc(arr){
-  var str=arr.join(',');
-  var regex=/,*EAST,WEST,*|,*NORTH,SOUTH,*|,*WEST,EAST,*|,*SOUTH,NORTH,*/;
+  var str=arr.join('');
+  var regex=/EASTWEST|NORTHSOUTH|WESTEAST|SOUTHNORTH/;
   
-  while (regex.test(str)) str = str.replace(regex,',');
-  return str.split(',').filter(Boolean);
+  while (regex.test(str)) str = str.replace(regex,'');
+  return str.match(/(NORTH|SOUTH|EAST|WEST)/g)||[];
 }
