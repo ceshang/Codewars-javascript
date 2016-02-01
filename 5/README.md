@@ -8,4 +8,4 @@
 - [Regex password validation](https://github.com/ceshang/Codewars-javascript/blob/master/5/regex_password_validation.js)
 - [Sum of pairs](https://github.com/ceshang/Codewars-javascript/blob/master/5/sum_of_pairs.js)
 - [Valid Parentheses](https://github.com/ceshang/Codewars-javascript/blob/master/5/valid_parentheses.js)
-- [xD array for dimmies](https://github.com/ceshang/Codewars-javascript/blob/master/5/xd_array_for_dimmies.js)
+- [xD arrays for dimmies](https://github.com/ceshang/Codewars-javascript/blob/master/5/xd_arrays_for_dimmies.js)
