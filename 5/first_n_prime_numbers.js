@@ -9,11 +9,9 @@ Test.assertEquals(Primes.first(80)[79], 409)
 */
 
 function Primes(){
-}
+  var result=[];
 
-var result=[];
-
-Primes.first = function(n){
+  this.first = function(n){
 
   function isPrime(num) {
     if(num<2) return false;
@@ -30,3 +28,8 @@ Primes.first = function(n){
     return result;
   }
   else return result.slice(0,n);
+
+}
+
+var Primes = new Primes();
+
