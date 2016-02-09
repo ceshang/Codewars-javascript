@@ -4,6 +4,7 @@
 - [Double Cola](https://github.com/ceshang/Codewars-javascript/blob/master/5/double_cola.js)
 - [First n prime numbers](https://github.com/ceshang/Codewars-javascript/blob/master/5/first_n_prime_numbers.js)
 - [Guess the gifts](https://github.com/ceshang/Codewars-javascript/blob/master/5/guess_the_gifts.js)
+- [Last digit of a large number](https://github.com/ceshang/Codewars-javascript/blob/master/5/last_digit_of_a_large_number.js)
 - [Moving zeros to the end](https://github.com/ceshang/Codewars-javascript/blob/master/5/moving_zeros_to_the_end.js)
 - [Number of trailing zeros of N](https://github.com/ceshang/Codewars-javascript/blob/master/5/number_of_trailing_zeros_of_n.js)
 - [Regex password validation](https://github.com/ceshang/Codewars-javascript/blob/master/5/regex_password_validation.js)
