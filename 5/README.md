@@ -7,6 +7,7 @@
 - [Last digit of a large number](https://github.com/ceshang/Codewars-javascript/blob/master/5/last_digit_of_a_large_number.js)
 - [Moving zeros to the end](https://github.com/ceshang/Codewars-javascript/blob/master/5/moving_zeros_to_the_end.js)
 - [Number of trailing zeros of N](https://github.com/ceshang/Codewars-javascript/blob/master/5/number_of_trailing_zeros_of_n.js)
+- [Pete, the baker](https://github.com/ceshang/Codewars-javascript/blob/master/5/pete_the_baker.js)
 - [Regex password validation](https://github.com/ceshang/Codewars-javascript/blob/master/5/regex_password_validation.js)
 - [Sum of pairs](https://github.com/ceshang/Codewars-javascript/blob/master/5/sum_of_pairs.js)
 - [Valid Parentheses](https://github.com/ceshang/Codewars-javascript/blob/master/5/valid_parentheses.js)
