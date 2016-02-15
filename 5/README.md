@@ -2,6 +2,7 @@
 - [Caculating with functions](https://github.com/ceshang/Codewars-javascript/blob/master/5/calculating_with_functions.js)
 - [Directions Reduction](https://github.com/ceshang/Codewars-javascript/blob/master/5/directions_reduction.js)
 - [Double Cola](https://github.com/ceshang/Codewars-javascript/blob/master/5/double_cola.js)
+- [Find heavy ball level master](https://github.com/ceshang/Codewars-javascript/blob/master/5/find_heavy_ball_level_master.js)
 - [First n prime numbers](https://github.com/ceshang/Codewars-javascript/blob/master/5/first_n_prime_numbers.js)
 - [Guess the gifts](https://github.com/ceshang/Codewars-javascript/blob/master/5/guess_the_gifts.js)
 - [Last digit of a large number](https://github.com/ceshang/Codewars-javascript/blob/master/5/last_digit_of_a_large_number.js)
