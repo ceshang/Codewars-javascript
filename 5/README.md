@@ -1,5 +1,6 @@
 ## Codewars-Javascript-5kyu
 - [Caculating with functions](https://github.com/ceshang/Codewars-javascript/blob/master/5/calculating_with_functions.js)
+- [Did I finish my sudoku](https://github.com/ceshang/Codewars-javascript/blob/master/5/did_I_finish_my_sudoku.js)
 - [Directions Reduction](https://github.com/ceshang/Codewars-javascript/blob/master/5/directions_reduction.js)
 - [Double Cola](https://github.com/ceshang/Codewars-javascript/blob/master/5/double_cola.js)
 - [Find heavy ball level master](https://github.com/ceshang/Codewars-javascript/blob/master/5/find_heavy_ball_level_master.js)
