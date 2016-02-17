@@ -26,3 +26,4 @@ function plus(x) {return function(y){return x+y;}}
 function minus(x) {return function(y){return y-x;}}
 function times(x) {return function(y){return x*y;}}
 function dividedBy(x) {return function(y){return y/x;}}
+
