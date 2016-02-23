@@ -31,7 +31,7 @@ function score( array ) {
   return points.reduce(function(a,b) {return a + b;});
 }
 
-
+---------------------------------Solution by SagePtr, FunGuy, Sagobunny----------------------
 function score( dice ) {
   var dc = [0,0,0,0,0,0];
   var tdr = [1000,200,300,400,500,600];
