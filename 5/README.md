@@ -8,6 +8,7 @@
 - [First n prime numbers](https://github.com/ceshang/Codewars-javascript/blob/master/5/first_n_prime_numbers.js)
 - [Guess the gifts](https://github.com/ceshang/Codewars-javascript/blob/master/5/guess_the_gifts.js)
 - [Greed is good](https://github.com/ceshang/Codewars-javascript/blob/master/5/greed_is_good.js)
+- [Human readable time](https://github.com/ceshang/Codewars-javascript/blob/master/5/human_readable_time.js)
 - [Largest 5 digit number in a series](https://github.com/ceshang/Codewars-javascript/blob/master/5/largest_5_digit_number_in_a_series.js)
 - [Last digit of a large number](https://github.com/ceshang/Codewars-javascript/blob/master/5/last_digit_of_a_large_number.js)
 - [Memorized fabonacci](https://github.com/ceshang/Codewars-javascript/blob/master/5/memorized_fabonacci.js)
