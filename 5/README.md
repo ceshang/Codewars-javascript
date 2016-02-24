@@ -1,4 +1,5 @@
 ## Codewars-Javascript-5kyu
+- [By the power set of castle grayskull](https://github.com/ceshang/Codewars-javascript/blob/master/5/by_the_power_set_of_castle_grayskull.js)
 - [Caculating with functions](https://github.com/ceshang/Codewars-javascript/blob/master/5/calculating_with_functions.js)
 - [Did I finish my sudoku](https://github.com/ceshang/Codewars-javascript/blob/master/5/did_I_finish_my_sudoku.js)
 - [Directions Reduction](https://github.com/ceshang/Codewars-javascript/blob/master/5/directions_reduction.js)
