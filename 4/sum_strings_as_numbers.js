@@ -1,10 +1,10 @@
 
 /*
-This time we want to write calculations using functions and get the results. Let's have a look at some examples:
-  seven(times(five())); // must return 35
-  four(plus(nine())); // must return 13
-  eight(minus(three())); // must return 5
-  six(dividedBy(two())); // must return 3
+Given the string representations of two integers, return the string representation of the sum of those integers.
+
+For example:
+
+sumStrings('1','2') // => '3'
 */
 
 function sumStrings(a,b) {
