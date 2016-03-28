@@ -19,3 +19,4 @@ function whoIsNext(names, r) {
   while (r >= l) { r -= l; l *= 2; }
   return names[Math.ceil(names.length * r / l)-1];
 }
+
