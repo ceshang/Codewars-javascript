@@ -2,6 +2,7 @@
 - [Dubstep](https://github.com/ceshang/Codewars-javascript/blob/master/6/dubstep.js)
 - [Is a number prime](https://github.com/ceshang/Codewars-javascript/blob/master/6/is_a_number_prime.js)
 - [Linked lists-length&count](https://github.com/ceshang/Codewars-javascript/blob/master/6/linked_lists_length&count.js)
+- [Multiples of 3 and 5](https://github.com/ceshang/Codewars-javascript/blob/master/6/multiples_of_3_and_5.js)
 - [Playing with digits](https://github.com/ceshang/Codewars-javascript/blob/master/6/playing_with_digits.js)
 - [Rotate array](https://github.com/ceshang/Codewars-javascript/blob/master/6/rotate_array.js)
 - [Triangle type](https://github.com/ceshang/Codewars-javascript/blob/master/6/triangle_type.js)
