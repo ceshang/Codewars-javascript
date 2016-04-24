@@ -1,3 +1,1 @@
-### Codewars-javascript
-
-Kata Solutions
+### Codewars-javascript(http://www.codewars.com/users/mantuzai)
