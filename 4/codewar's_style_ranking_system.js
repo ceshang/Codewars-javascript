@@ -1,5 +1,5 @@
 /*
-[Description](http://www.codewars.com/kata/codewars-style-ranking-system/javascript)
+http://www.codewars.com/kata/codewars-style-ranking-system/javascript
 */
 
 var User = function(){
